@@ -56,5 +56,3 @@ export MESSAGING_NATIVE_LIB=/absolute/path/to/native-c/libmessagecodec.dylib
 
 - This is an MVP scaffold intended for extension (persistent DB/auth hardening/tests).
 - Current storage is in-memory for faster local development.
-# messaging-system
-# messaging-system
