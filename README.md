@@ -1,4 +1,4 @@
-# Messaging System (Java + C + Web Frontend)
+# Pulse Messaging System (Java + C + Web Frontend)
 
 This project is a starter messaging platform with:
 
