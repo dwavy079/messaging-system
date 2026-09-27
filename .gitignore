@@ -2,3 +2,13 @@ server-java/target/
 web-client/node_modules/
 web-client/dist/
 .DS_Store
+
+# Local Maven cache (should never be committed)
+server-java/.m2/
+
+# Built native libraries
+native-c/*.so
+native-c/*.dylib
+
+# Secrets
+.env
